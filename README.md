@@ -1,15 +1,23 @@
+# 👋 Hi, I'm **Abdimilkesa**
+
+🚀 **Developer** • **Web Applications** • **Software Projects**
+
 <div align="center">
 
-# 👋 Hi, I'm Abdimilkesa
-
-### Developer • Web & Software Projects
-
-I enjoy building web applications, experimenting with ideas, and learning by creating. Here you’ll find projects ranging from e-commerce and food experiences to chat applications and developer tools.
-
-[![GitHub followers](https://img.shields.io/github/followers/abdimilkesa?style=for-the-badge&logo=github&label=Follow)](https://github.com/abdimilkesa?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=abdimilkesa&style=for-the-badge&color=blueviolet)](https://github.com/abdimilkesa)
+[![Web Development](https://img.shields.io/badge/Web-Development-ff6b6b?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdimilkesa)
 
 </div>
+
+✨ I build modern web applications, experiment with new ideas, and learn by creating. My projects span:
+
+🛒 **E-commerce** &nbsp;•&nbsp; 🍽️ **Food experiences** &nbsp;•&nbsp; 💬 **Chat applications** &nbsp;•&nbsp; 🛠️ **Developer tools**
+
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=abdimilkesa&style=for-the-badge&color=blueviolet)](https://github.com/abdimilkesa)
 
 ---
 
